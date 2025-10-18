@@ -4,10 +4,11 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+# 忽略整个 .idea 文件夹
+.idea/
+# 如果你确实想保留某些特定文件（比如 .idea/codeStyles/），你可以加例外（可选）
+# !.idea/codeStyles/
+# 忽略 IntelliJ IDEA 工程文件
 *.iws
 *.iml
 *.ipr

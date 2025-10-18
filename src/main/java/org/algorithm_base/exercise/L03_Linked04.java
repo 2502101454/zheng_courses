@@ -1,6 +1,5 @@
 package org.algorithm_base.exercise;
 
-import jdk.nashorn.internal.runtime.regexp.JoniRegExp;
 
 /**
  * 基于单链表实现 LinkedList容器，容器支持以下操作：
