@@ -7,5 +7,6 @@ public class array_test {
         for (int i = 0; i < a.length; i++) {
             System.out.println(i + ":" + a[i]);
         }
+        System.out.println("Coool we done all the init work for learn from my High ability PC");
     }
 }
